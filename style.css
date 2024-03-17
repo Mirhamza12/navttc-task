@@ -1,0 +1,20 @@
+.container
+{
+  width: 50%;
+  margin: auto;  
+}
+.container1
+{
+    width: auto;
+    margin: auto;
+}
+button 
+{background-color: rgb(95, 4, 4);
+    border: 2px black solid
+    border-radius 0ch;
+    color: rgb(93, 150, 61);
+    padding: 0cqw;
+    text-decoration: none;
+    display: inline-block;
+    font-size: larger;
+}
